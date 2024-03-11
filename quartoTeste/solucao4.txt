@@ -1,0 +1,4 @@
+Para começar ligaria o primeiro interruptor e deixaria ligado por um tempo para poder deixar a lampada que acendeu quente.
+Depois de desligar esse primeiro eu ligaria o segundo e iria nas salas ver as lampadas.
+A sala que tivesse a lampada acessa seria do segundo interruptor, a que tivesse que a lampada quente seria do primeiro e a sala 
+que que a lamapada não esta acessa nem quente pertence ao terceiro interruptor.
